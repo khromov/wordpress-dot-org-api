@@ -3,7 +3,9 @@
   "description": "Helper class for WordPress.org API written in PHP",
   "license": "GPLv2",
   "type": "library",
-  "require": {},
+  "require": {
+    "guzzlehttp/guzzle": "~5.2.0"
+  },
   "autoload": {
     "psr-4": {
       "Khromov\\": "src"
