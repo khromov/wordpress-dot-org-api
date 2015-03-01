@@ -1,0 +1,12 @@
+{
+  "name": "khromov/wordpress-dot-org-api",
+  "description": "Helper class for WordPress.org API written in PHP",
+  "license": "GPLv2",
+  "type": "library",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Khromov\\": "src"
+    }
+  }
+}
