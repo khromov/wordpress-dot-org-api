@@ -10,6 +10,10 @@ To include into your project, use:
 Packagist:  
 https://packagist.org/packages/khromov/wordpress-dot-org-api
 
+### API Specifications  
+http://codex.wordpress.org/WordPress.org_API
+
+
 ### Code examples  
 Code examples will be available shortly.
 
@@ -42,6 +46,3 @@ echo $api->call('/plugins/info/1.0/english-wp-admin');
 
 If you are looking for a full-fledged helper, check out this package:  
 https://github.com/Rarst/wporg-client
-
-### API Specifications  
-http://codex.wordpress.org/WordPress.org_API
