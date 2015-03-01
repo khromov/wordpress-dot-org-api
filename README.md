@@ -19,7 +19,7 @@ include 'vendor/autoload.php';
 
 use \Khromov\WordPressOrgAPI;
 
-$api = new WordPressOrgAPI('https://api.wordpress.org', true);
+$api = new WordPressOrgAPI();
 
 /* Sets content-type to text/plain */
 $api->set_headers();
